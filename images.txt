@@ -2,3 +2,4 @@ mysql:5.7
 dreamacro/clash-premium
 jgraph/drawio
 jgraph/drawio:20.6.2
+lsky-pro:1.7.1
