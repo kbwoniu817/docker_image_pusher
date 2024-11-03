@@ -1,4 +1,4 @@
 mysql:5.7
 dreamacro/clash-premium
 jgraph/drawio
-drawio/drawio-app:stable
+jgraph/drawio:22.0.2
