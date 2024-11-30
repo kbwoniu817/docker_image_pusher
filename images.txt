@@ -3,4 +3,4 @@ dreamacro/clash-premium
 jgraph/drawio
 jgraph/drawio:20.6.2
 lsky-pro:1.7.1
-helloz/onenav
+uozi/nginx-ui:latest
