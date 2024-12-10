@@ -5,3 +5,5 @@ jgraph/drawio:20.6.2
 uozi/nginx-ui:latest
 tznb/twonav:latest
 wbsu2003/lskypro
+elasticsearch:7.17.5
+kibana:7.17.5
