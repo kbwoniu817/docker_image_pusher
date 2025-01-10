@@ -9,3 +9,4 @@ elasticsearch:7.17.5
 kibana:7.17.5
 vaultwarden/server
 sonatype/nexus3
+guovern/iptv-api
