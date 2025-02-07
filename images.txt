@@ -10,3 +10,4 @@ kibana:7.17.5
 vaultwarden/server
 sonatype/nexus3
 guovern/iptv-api
+mysql:8.0.32
