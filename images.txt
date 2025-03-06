@@ -11,3 +11,4 @@ vaultwarden/server
 sonatype/nexus3
 guovern/iptv-api
 mysql:8.0.32
+vaultwarden/server:latest
