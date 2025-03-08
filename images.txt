@@ -1,14 +1,2 @@
-mysql:5.7
-dreamacro/clash-premium
-jgraph/drawio
-jgraph/drawio:20.6.2
-uozi/nginx-ui:latest
-tznb/twonav:latest
-wbsu2003/lskypro
-elasticsearch:7.17.5
-kibana:7.17.5
-vaultwarden/server
-sonatype/nexus3
-guovern/iptv-api
-mysql:8.0.32
-vaultwarden/server:latest
+gitlab/gitlab-ce:latest
+jenkins/jenkins:lts
