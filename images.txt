@@ -1,2 +1,1 @@
-gitlab/gitlab-ce:latest
-jenkins/jenkins:lts
+registry.cn-shanghai.aliyuncs.com/zimablue/sparkai:v6.7.1
