@@ -1,1 +1,1 @@
-registry.cn-shanghai.aliyuncs.com/zimablue/sparkai:v6.7.1
+docker.io/library/ubuntu:24.04
