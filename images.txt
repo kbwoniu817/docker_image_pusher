@@ -1,1 +1,1 @@
-openjdk:17-jre-slim
+docker.elastic.co/elasticsearch/elasticsearch:8.17.3
