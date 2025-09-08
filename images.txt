@@ -1,1 +1,1 @@
-hoppscotch/hoppscotch
+postgres:12-alpine
