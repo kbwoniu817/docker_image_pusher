@@ -1,1 +1,1 @@
-qdrant/qdrant:latest
+docker pull 0xxb/lsky-pro:2.3.0
