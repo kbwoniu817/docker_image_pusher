@@ -1,1 +1,1 @@
-0xxb/lsky-pro:2.3.0
+openjdk:21-jdk-slim
